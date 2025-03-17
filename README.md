@@ -34,7 +34,7 @@ Here's a deep insight into my project
 
 ## 1. What are the top-paying data analyst jobs? 
 
-SQL file: [1_Top_paying_jobs.sql](1_Top_paying_jobs.sql) 
+SQL file: [1_Top_paying_jobs.sql](Python_visualization/1_Top_paying_jobs.ipynb ) 
 
 ### Steps  
 To identify the highest-paying data analyst jobs, I performed the following steps:  
