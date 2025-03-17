@@ -533,7 +533,7 @@ ORDER BY average_salary DESC;
 
 Professionals in manipulating big datasets using technologies like PySpark and Couchbase, along with machine learning tools such as DataRobot and Jupyter, are in high demand.
 
-**2. Python libraries are esseential**
+**2. Python libraries are essential**
 
 Additionally, proficiency in Python libraries like Pandas and NumPy further enhances an analyst’s ability to manipulate and analyze data efficiently, making these skills essential for top-paying roles. 
 
