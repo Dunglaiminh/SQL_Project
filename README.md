@@ -34,7 +34,7 @@ Here's a deep insight into my project
 
 ## 1. What are the top-paying data analyst jobs? 
 
-SQL file: [1_Top_paying_jobs.sql](Python_visualization/1_Top_paying_jobs.ipynb ) 
+SQL file: [1_Top_paying_jobs.sql]() 
 
 ### Steps  
 To identify the highest-paying data analyst jobs, I performed the following steps:  
@@ -84,9 +84,9 @@ With the help of ChatGPT, I managed to construct the table as follow:
 
 With the use of Python, here's how I visualized the data. 
 
-![1_Top_paying_jobs.png](Python_visualization\Images\1_Top_paying_jobs.png)
+![1_Top_paying_jobs.png](Python_visualization/Images/1_Top_paying_jobs.png)
 
-To see the full python code: visit [1_Top_paying_jobs.ipynb](Python_visualization\1_Top_paying_jobs.ipynb)
+To see the full python code: visit [1_Top_paying_jobs.ipynb](Python_visualization/1_Top_paying_jobs.ipynb)
 
 ### Insight 
 
@@ -231,9 +231,9 @@ With the help of ChatGPT, I managed to construct the table as follow:
 
 With the use of Python, here's how I visualized the data. 
 
-![3_Top_demanded_skills.png](Python_visualization\Images\3_Top_demanded_skills.png)
+![3_Top_demanded_skills.png](Python_visualization/Images/3_Top_demanded_skills.png)
 
-To see the full python code: visit [3_Top_demanded_skills.ipynb](3_Top_demanded_skills.sql) 
+To see the full python code: visit [3_Top_demanded_skills.ipynb](Python_visualization/3_Top_demanded_skills.ipynb) 
 
 ### Insight 
 
@@ -614,7 +614,9 @@ With the help of ChatGPT, I managed to construct the table as follow:
 
 With the use of Python, here's how I visualized the data. 
 
-![5_Optimal_skills.png](Python_visualization\Images\5_Optimal_skills.png) 
+![5_Optimal_skills.png](Python_visualization/Images/5_Optimal_skills.png) 
+
+To see the full Python code, visit: ![5_Optimal_skills.ipynb](Python_visualization/5_Optimal_skills.ipynb)
 
 ### Insight 
 
