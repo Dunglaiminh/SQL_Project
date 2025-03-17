@@ -34,7 +34,7 @@ Here's a deep insight into my project
 
 ## 1. What are the top-paying data analyst jobs? 
 
-SQL file: [1_Top_paying_jobs.sql]() 
+SQL file: [1_Top_paying_jobs.sql](1_Top_paying_jobs.sql) 
 
 ### Steps  
 To identify the highest-paying data analyst jobs, I performed the following steps:  
@@ -255,7 +255,7 @@ Tableau (46,554) and Power BI (39,468) are widely sought after, emphasizing the 
 
 ## 4. Which skills are associated with higher salaries? 
 
-SQL file: [4_Top_paying_skills.sql](4_Top_paying_skills.sql) 
+SQL file: [4_Top_paying_skills.sql](4_Top_paying_skills_salary.sql) 
 
 ### Steps 
 
